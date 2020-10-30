@@ -1,0 +1,9 @@
+torch==1.6.0
+numpy==1.14.0
+networkx==2.4
+geoopt==0.1.2
+scipy==0.1.21
+seaborn==0.10.0
+tensorboard==2.0.0
+scikit-learn==0.20.2
+pandas==0.25.3
