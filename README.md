@@ -14,7 +14,7 @@
 
 1. Clone the repository:
     ```shell
-    $ git clone https://github.com/esihge/esihge
+    $ git clone https://github.com/AliLotfi92/ESI_HGE
     $ cd esihge
     ```
 2. Install requirements:
