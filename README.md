@@ -2,7 +2,7 @@
 [Hyperbolic Graph Embedding with Enhanced Semi-Implicit Variational Inference](http://proceedings.mlr.press/v130/lotfi-rezaabad21a.html) in Pytorch
 Hierarchical   Input             |  Latent Output
 :-------------------------:|:-------------------------:
-![](https://github.com/AliLotfi92/ESI_HSE/blob/master/assets/4.png)  |  ![](https://github.com/AliLotfi92/ESI_HSE/blob/master/assets/2.png)
+![](https://github.com/utcsilab/ESI_HGE/blob/main/assets/4.png)  |  ![](https://github.com/utcsilab/ESI_HGE/blob/main/assets/2.png)
 
 ### How to run
 
@@ -42,4 +42,4 @@ Hierarchical   Input             |  Latent Output
 
 ### Results:
 - Latent codes discoveries
-![alt text](https://github.com/AliLotfi92/ESI_HSE/blob/master/assets/latent_3.png)
+![alt text](https://github.com/utcsilab/ESI_HGE/blob/main/assets/latent_3.png)
