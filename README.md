@@ -1,4 +1,10 @@
 # Hyperbolic Graph Embedding with Enhanced Semi-Implicit Variational Inference
+[Hyperbolic Graph Embedding with Enhanced Semi-Implicit Variational Inference](http://proceedings.mlr.press/v130/lotfi-rezaabad21a.html) in Pytorch
+Hierarchical   Input             |  Latent Output
+:-------------------------:|:-------------------------:
+![](https://github.com/AliLotfi92/ESI_HSE/blob/master/assets/4.png)  |  ![](https://github.com/AliLotfi92/ESI_HSE/blob/master/assets/2.png)
+
+### How to run
 
 ### Requirements
 - NumPy
@@ -32,3 +38,8 @@
 * ```K```: semi-implicit vi hyperparameters
 * ```J```: semi-implicit vi hyperparameters
 * ```dataset-str```: synthetic, cora, citeseer, or pubmed
+
+
+### Results:
+- Latent codes discoveries
+![alt text](https://github.com/AliLotfi92/ESI_HSE/blob/master/assets/latent_3.png)
